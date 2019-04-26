@@ -61,7 +61,7 @@ h2 {
 
 .plates input + label:before {
     content: '⬜️';
-    margin-right: .65em;
+    margin-right: .10px;
 }
 
 .plates input:checked + label:before {
